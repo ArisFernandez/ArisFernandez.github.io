@@ -1,2 +1,12 @@
 # ArisFernandez.github.io
-El meu primer site web.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>El meu site</title>
+    <link rel="stylesheet" href="estils.css">
+</head>
+<body>
+    <h1>Benvingut al meu site!</h1>
+    <img src="imatges/foto.jpg" alt="Una foto meva" width="200">
+</body>
+</html>
