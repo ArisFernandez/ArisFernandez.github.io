@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>El meu site</title>
+    <title>El meu site
     <link rel="stylesheet" href="estils.css">
 </head>
 <body>
